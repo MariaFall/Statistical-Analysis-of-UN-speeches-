@@ -1,0 +1,933 @@
+﻿pattern
+aboriginal(s)?
+academia
+activist(s)?
+adolescent(s)?
+adult(s)?
+agriculture
+aid worker(s)?
+arm(y|ies)
+attacker(s)?
+bisexual
+bottom billion
+boy(s)?
+business(es)?
+camp(s)?
+caregiver
+caretaker
+cartels
+caste(s)?
+casualt(y|ies)
+child(ren)?
+child soldier(s)?
+childhood(s)?
+citizen(s)?
+cit(y|ies)
+civilian(s)?
+civilization
+church(es)?
+cleric(s)?
+client(s)?
+clinic(s)?
+combatant(s)?
+committee(s)?
+compan(y|ies)
+constituency
+constituent(s)?
+consumer(s)?
+corporate
+corporation(s)?
+corrupt official(s)?
+crime syndicate(s)?
+criminal gang(s)?
+criminal group(s)?
+criminal network(s)?
+criminal organization(s)?
+criminal triads
+cross border network(s)?
+cross community network(s)?
+culture
+daughter(s)?
+defender(s)?
+diaspora(s)?
+district(s)?
+donor(s)?
+drug dealer(s)?
+dweller(s)?
+earner
+elected official(s)?
+elites
+employee(s)?
+employer(s)?
+entrepreneur(s)?
+ethnic(s)?
+ethnicit(y|ies)
+exporters
+factor(y|ies)
+faith based
+farm(s)?
+farmer(s)?
+father(s)?
+female(s)?
+fighter(s)?
+financial centre
+firms
+foundation(s)?
+funder
+gang(s)?
+gay(s)?
+gender(s)?
+generation(s)?
+girl child
+girl(s)?
+grass root(s)?
+grower(s)?
+hacker(s)?
+hacktivist(s)?
+health professional(s)?
+homeless
+hostage(s)?
+household(s)?
+human being(s)?
+human li(fe|ves)
+human person(s)?
+human rights specialist(s)?
+humanity
+humans
+husband(s)?
+idp(s)?
+illegals
+independent press
+individuals
+industr(y|ies)
+inhabitant(s)?
+innocents
+intellectual
+intelligence
+intelligence service(s)?
+internally displaced
+intersex
+intimate partner(s)?
+investors
+journalist(s)?
+judge(s)?
+hospital(s)?
+labourer(s)?
+law enforcement
+legislator(s)?
+lesbian(s)?
+lgbti+
+lgbtqi+
+li(fe|ves)
+livelihood(s)?
+local authorit(y|ies)
+local capacit(y|ies)
+local government(s)?
+local level(s)?
+local partner(s)?
+mafia
+male(s)?
+m[ae]n
+market(s)?
+masses
+media
+medical personnel
+member(s)? of parliament
+migrants
+militia(s)?
+militar(y|ies)
+minorit(y|ies)
+minors
+mosque(s)?
+most vulnerable
+mother(s)?
+movement(s)?
+municipalit(y|ies)
+nationals
+neighbourhood(s)?
+ngo(s)?
+nomad
+nomadic
+non combatant(s)?
+non governmental
+non state
+nongovernmental
+nonstate
+offenders
+officers
+organized crime
+orphan(s)?
+paper picker
+parent(s)?
+parliament(s)?
+parliamentarian(s)?
+participant(s)?
+patients
+peacebuilder(s)?
+peacekeeper(s)?
+peer(s)?
+people(s)?
+perpetrator(s)?
+person(s)?
+personnel
+police
+policymakers
+political candidate(s)?
+political opponent(s)?
+political opposition
+politicians
+populace
+popular participation
+population(s)?
+pre adolescent
+pregnant
+press
+primary school
+private security
+producer
+protester(s)?
+racial
+raiders
+rebel(s)?
+rebel part(y|ies)
+refugees
+residents
+rights holders
+rioter(s)?
+rural
+scholar
+school(s)?
+scientific associations
+scientist(s)?
+sector(s)?
+self employed
+sexual
+slave(s)?
+slum(s)?
+smuggler(s)?
+social fabric
+soldier(s)?
+son(s)?
+speakers
+spoiler(s)?
+sp(y|ies)
+staff
+stakeholder(s)?
+startups
+starving
+stateless
+students
+survivor(s)?
+synagogue(s)?
+taxpayer(s)?
+teacher(s)?
+teenager(s)?
+teenagers
+the descendant
+the dependent
+the destitute
+the disabled
+the disappeared
+the discriminated
+the displaced
+the elderly
+the elite(s)?
+the excluded
+the extreme poor
+the hungry
+the income poor
+the indigenous
+the innocent
+the judiciary
+the lives
+the locals
+the majority
+the marginalized
+the missing
+the most marginalized
+the most vulnerable
+the orphaned
+the police
+the poor
+the poorest
+the public
+the segregated
+the sick
+the strong
+the targeted
+the threatened
+the very young
+the victimized
+the vulnerable
+the weak
+the wealthy
+the young
+those living in
+those most at risk
+those who benefit least
+those who live in
+those who suffer
+town(s)?
+trade union(s)?
+trafficker(s)?
+transgender
+transnational
+tribe(s)?
+troop(s)?
+under employed
+unemployed
+universit(y|ies)
+urban
+user(s)?
+victim(s)?
+villager(s)?
+village(s)?
+voices
+voter(s)?
+warlord(s)?
+warriors
+we the peoples
+wi(fe|ves)
+widow(s)?
+wom[ae]n
+worker(s)?
+workers union(s)?
+youth
+youth population
+abkhaz
+abkhazians
+acehnese
+adibasi janajati
+adyghe
+afar
+afghans
+africans
+afrikaners
+afro bahamians
+afrobrazilians
+afro caribbeans
+afro colombian
+afro costa ricans
+afro cubans
+afro ecuadorians
+afro guyanese
+afromexicans
+afronicaraguans
+afropanamanians
+afroperuvians
+afro uruguayans
+afrovenezuelans
+ahmadis
+ainu
+aku
+al akhdam
+alawi
+alawites
+albanian
+albanians
+algerians
+altai
+amboinese
+americans
+americo liberians
+amhara
+andorrans
+angolans
+anguillans
+anuak
+anyuak
+aostans
+arabs
+argentinians
+armenians
+asante
+ashkenazim
+asians
+assamese
+assyrians
+australians
+austrians
+avars
+aymara
+azande
+azerbaijanis
+azeri
+baganda
+bahais
+bahamians
+bahrainis
+bai
+bakongo
+balanta
+balinese
+balkars
+baloch
+baluchis
+bamar
+bamileke
+banda
+bangladeshis
+banyarwanda
+barbadians
+bari
+bashkirs
+basoga
+basques
+bassa
+baster
+basubia
+bataks
+batéké
+baule
+baya
+bedoon
+beja
+belarusians
+belgians
+belizeans
+bembe
+bengali
+benineses
+beni shugal gumez
+berbers
+bermudians
+beti
+bhutanese
+biharis
+birwa
+blacks
+blang
+bodo
+bolivians
+bosniaks
+botswanans
+bougainvilleans
+bouyei
+brazilians
+bruneians
+bubi
+bulgarians
+bumiputera
+burakumin
+burkinans
+burundians
+buryats
+byelorussians
+cabindan mayombe
+cambodians
+cameroonians
+canadians
+cape verdean
+cape verdeans
+catalans
+colombians
+coloreds
+comorans
+congolese
+corsicans
+costa ricans
+côtiers
+creoles
+croatians
+croats
+cubans
+cymraes
+cymro
+cypriots
+czechs
+dai
+dalits
+damara
+danes
+dao
+dargins
+daur
+dayak
+dayaks
+didinga
+dinka
+diola
+divehis
+djerma songhai
+djiboutians
+dominican haitians
+dominicans
+dong
+dongxiang
+druze
+dutch
+east timorese
+ecuadorians
+egyptians
+emiratis
+equatorial guineans
+eritreans
+eshira
+estonians
+ethiopians
+eurasians
+ewe
+fang
+far north west nilers
+fernandinos
+fijians
+fil chinese
+filipinos
+finns
+flemings
+franco mauritians
+friulians
+fula
+fulani
+fur
+ga adangbe
+gagauz
+galicians
+gambians
+garifuna
+garífuna
+gelao
+gens de couleur
+georgians
+germans
+ghanaians
+gia rai
+gibraltarians
+gio
+gorani
+gorontalos
+goula
+greeks
+greenlanders
+grenadians
+guamanians
+guaraní
+guatemalans
+guineans
+gujarati
+gur
+guyaneses
+hadjerai
+haitians
+hani
+harari
+haratins
+hausa
+hazara
+herero
+highlanders
+hill tribes
+himba
+hindus
+hmong
+hoa
+hondurans
+hong kongers
+hui
+hungarians
+hutu
+chadians
+cham
+chechens
+cherkess
+chileans
+choco
+chukchi
+chuvashes
+icelanders
+igbo
+ijaw
+indian tamils
+indians
+indigenous
+indo guyanese
+indonesians
+ingush
+iranians
+iraqis
+irish
+isaas
+islanders
+israelis
+italians
+ivorians
+jamaicans
+jingpo
+jordanians
+kabardins
+kabré
+kadazans
+kachins
+kakwa nubian
+kalanga
+kalenjin masai turkana samburu
+kalmyks
+kamba
+kannada
+kanouri
+kaonde
+karachai
+karakalpak
+karakalpaks
+karamojong
+karelians
+karenni
+kavango
+kayin
+kazakhs
+kenyans
+kgalagadi
+khakass
+khmer
+khmou
+kikuyu meru emb
+kinh
+kirghis
+kirghiz
+kisii
+kittitians
+komi
+komi permyaks
+kono
+koreans
+kosovans
+kouyou
+krahn
+kru
+kumyks
+kuna
+kunama
+kurds
+kuwaitis
+kyrgyz
+kyrgyzstanis
+ladinos
+lahu
+langi
+lao
+lari
+latinos
+latoka
+latvians
+lezgins
+lhotsampa
+li
+liberians
+libyans
+limba
+lisu
+lithuanians
+lozi 
+luanda
+luba kasai
+luba shaba
+luhya
+lulua
+lunda chokwe
+lunda yeke
+luo
+luvale
+luxembourgers
+maasai
+macedonians
+madhesi
+madura
+mafwe
+makassarese
+makonde yao
+malawians
+malay
+malays
+malaysians
+maldivians
+malians
+malinke
+malyalam
+mandingo
+mandingue
+mandinka
+manchu
+manipuri
+manjaco
+mano
+manyika
+maonan
+maori
+mapuche
+marathis
+mari
+maroons
+martiniquais
+masalit
+mauritanians
+mauritians
+maya
+mbaka
+mbanderu
+mbandja
+mbede
+mbochi
+mbukushu
+mbundu mestico
+mende
+mestizos
+mexicans
+miao
+micronesians
+mijikenda
+minahasa
+minangkabaus
+miskitos
+mizo
+mizrahim
+mohajirs
+moldovans
+mongo
+mongolians
+mongols
+mons
+montenegrins
+montserratians
+moors
+mordva
+moro
+moroccans
+mozambicans
+mulam
+mundari
+muong
+murle
+mwali comorans
+myene
+naga
+nama
+namibians
+nauruans
+naxi
+ndau
+ndebele
+ndebele kalanga
+ndowe
+new zealanders
+newars
+ngäbe buglé
+ngalops
+ngazidja comorans
+ngbaka
+ngbandi
+nicaraguans
+nigerians
+nigeriens
+niueans
+nkomi
+north koreans
+northern zaydis
+northerners
+norwegians
+nuba
+nuer
+nung
+nuristani
+nzwani comorans
+ogoni
+okinawans
+omanis
+orang asli
+oriya
+oroma
+orungu
+ossetes
+ossetians
+ovambo
+ovimbundu ovambo
+pakistanis
+palauans
+palestinians
+pamir tajiks
+pamiri tajiks
+panamanians
+papel
+papua new guineans
+papuans
+paraguayans
+pashtuns
+pedi
+persians
+peruvians
+peul
+poles
+pomaks
+puerto ricans
+pulaar
+punjabi
+qataris
+qiang
+qizalbash
+quechua
+rapa nui
+rashaida
+roma
+romanians
+russians
+rusyns
+rwandans
+saho
+sahrawis
+salar
+salvadoreans
+samoans
+san
+sao tomeans
+sara
+sardinians
+saudis
+scots
+scotts
+serbs
+serer
+shafi'i
+shan
+sharchops
+shilluk
+shirazi
+shona
+shui
+sidama
+sierra leoneans
+sindhi
+singaporeans
+sinhalese
+slovaks
+slovenes
+slovenians
+somalis
+sotho
+south africans
+south koreans
+southerners
+spaniard
+sri lankan tamils
+sri lankans
+st helenians
+st lucians
+sumus
+sundanese
+surinamers
+susu
+swazi
+swazis
+swedes
+swiss
+syrians
+taiwanese
+tajiks
+talysh
+tama
+tamils
+tanzanians
+tatars
+tay
+telugu
+temne
+ternate
+teso
+tetela kusu
+thai
+thai lao
+thais
+tibetans
+tibetians
+tigry
+tiv
+tonga ila lenje
+tongans
+toposa
+toubou
+trinidadians
+tristanians
+tsonga
+tsonga chopi
+tswana
+tswapong
+tu
+tuareg
+tujia
+tunisians
+tupi guaraní
+turkmen
+turkmenistanis
+turkmens
+turks
+tutsis
+tutsi banyamulenge
+tuvaluans
+tuvinians
+udmurt
+ugandans
+uighur
+uighurs
+ukrainians
+uruguayans
+uyghur
+uzbeks
+venda
+venezuelans
+vietnamese
+vili
+vincentians
+vlachs
+wa
+wallisians
+walloon
+welsh
+whites
+wolof
+xhosa
+xibe
+xinca
+yakoma
+yakuts
+yao
+yemenis
+yeyi
+yezidis
+yi
+yoruba
+zaghawa
+zambians
+zaydis
+zhuang
+zimbabweans
+zomis
+zulu
+buddhists
+catholics
+christians
+jews
+muslim
+orthodox
+protestants
+shias
+shi'as
+sunnis
+wahhabis
+zoroastrians
+amnesty international
+hrw
+human rights watch
+international committee of the red cross
+international committee red cross
+icrc
+medecins sans frontieres
+médecins sans frontières
+doctors without borders
+msf
+save the children
+save the children international
+stc
+norwegian refugee council
+nrc
+irc
+international rescue committee
+international criminal court
+icc
